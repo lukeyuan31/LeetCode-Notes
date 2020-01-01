@@ -2,6 +2,7 @@ package Algorithm;
 
 public class MergeTwoLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        int test=Integer.MAX_VALUE;
         if(l2==null){
             return l1;
         }else if (l1==null){
