@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.Easy;
 
 public class LongestCommonPrefix {
     public int FindShortest(String[] strs){

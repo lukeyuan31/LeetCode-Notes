@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.Medium;
 
 public class NumberofIslands {
     void dfs(char[][]grid, int x, int y){

@@ -1,4 +1,11 @@
-package Algorithm;
+package Algorithm.Easy;
+
+//import Algorithm.Medium.ListNode;
+
+class ListNode{
+    int val;
+    ListNode next;
+        }
 
 public class MergeTwoLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

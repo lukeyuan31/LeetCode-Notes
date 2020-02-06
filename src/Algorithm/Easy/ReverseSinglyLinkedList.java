@@ -1,4 +1,6 @@
-package Algorithm;
+package Algorithm.Easy;
+
+//import Algorithm.Medium.ListNode;
 
 public class ReverseSinglyLinkedList {
     /**

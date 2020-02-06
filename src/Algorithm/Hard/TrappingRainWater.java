@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.Hard;
 
 public class TrappingRainWater {
     public int trap(int[] height) {

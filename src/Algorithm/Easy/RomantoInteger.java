@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.Easy;
 
 public class RomantoInteger<num> {
     public int romanToInt(String s) {

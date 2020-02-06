@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.Medium;
 
 public class ProductofArrayExceptSelf {
     class Solution {

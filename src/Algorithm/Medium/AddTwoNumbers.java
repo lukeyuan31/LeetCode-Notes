@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.Medium;
 class ListNode {
      int val;
       ListNode next;

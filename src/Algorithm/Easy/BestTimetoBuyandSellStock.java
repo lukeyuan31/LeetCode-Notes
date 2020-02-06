@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.Easy;
 
 public class BestTimetoBuyandSellStock {
     class Solution {
