@@ -1,7 +1,11 @@
 package Algorithm.Medium;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class SearchinRotatedSortedArray {
     public int search(int[] nums, int target) {
+        Map<String,Integer> map =new HashMap<String, Integer>();
         if (nums.length==0){
             return -1;
         }
