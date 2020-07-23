@@ -1,4 +1,4 @@
-'''
+
 
 import java.util.*;
 
@@ -17,6 +17,7 @@ import java.util.*;
  *     }
  * }
  */
+ 
 class Solution {
     HashMap<Integer,ArrayList<Pair<Integer,Integer>>> map=new HashMap<>();
     int min=0;
@@ -66,4 +67,4 @@ class Solution {
     }
 }
 
-'''
+`
